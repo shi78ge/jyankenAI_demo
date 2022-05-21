@@ -1,4 +1,4 @@
-# jyankenAI
+# jyankenAI_demo
  
 
 https://user-images.githubusercontent.com/67863963/169651920-9f1daf9c-0622-4407-a4d2-7b82cf599de8.mp4
