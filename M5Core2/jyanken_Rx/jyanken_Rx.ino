@@ -30,7 +30,5 @@ void loop() {
 
   filename.toCharArray(filename_array, 20);
 
-  M5.Lcd.drawJpgFile(SD, filename_array,0,0);
-  M5.update();
-  
+  M5.Lcd.drawJpgFile(SD, filename_array,0,0);  
 }
